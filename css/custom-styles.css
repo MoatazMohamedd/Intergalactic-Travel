@@ -175,6 +175,9 @@ svg:hover {
   min-height: 90vh;
   width: 100%;
   overflow: hidden;
+  min-width: 100%;
+  background-attachment: fixed;
+  background-size: cover;
 }
 
 .galaxy-bg::after {
