@@ -6,13 +6,13 @@ This project is a fully responsive, Bootstrap website that takes you through the
 
 ## Features
 
-- Responsive Design: Works seamlessly on desktop, tablet, and mobile.
+- Responsive Design: Works seamlessly on desktop, tablet and mobile.
 
-- Custom Cosmic Theme: Neon Cyan, Cosmic Purple, and Star White palette.
+- Custom Cosmic Theme: Neon Cyan, Cosmic Purple and Star White palette.
 
 - Bootstrap 5 main components.
 
-- Planet Details Pages: Overview, reviews, tours, and FAQs for each destination.
+- Planet Details Pages: Overview, reviews, tours and FAQs for each destination.
 
 - Smooth Navigation: Breadcrumbs and pagination for intuitive exploration.
 
