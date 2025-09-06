@@ -51,6 +51,6 @@ This project is a fully responsive, Bootstrap website that takes you through the
 ## How to Run
 
 ```
-git clone https://github.com/YourUsername/interstellar-travel-agency.git
+git clone https://github.com/YourUsername/intergalactic-travel.git
 
 ```
